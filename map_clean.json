@@ -1,0 +1,2526 @@
+{
+  "stores": [
+    {
+      "name": "LEROY MERLIN - RENNES SUD",
+      "storeId": "naofloor_chantepie_35135_leroy_merlin",
+      "location": {
+        "lat": 48.085869,
+        "lng": -1.632327
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "18 allée De Guerlédan",
+          "Parc D'Activités Rocade Sud"
+        ],
+        "countryCode": null,
+        "city": "Chantepie",
+        "zipcode": "35135"
+      },
+      "contact": {
+        "phone": "02 99 41 66 90"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - VILLENEUVE D'ASCQ",
+      "storeId": "naofloor_villeneuve_d_ascq_59650_leroy_merlin",
+      "location": {
+        "lat": 50.615108,
+        "lng": 3.129166
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Rue de Versailles",
+          "ZAC De Valmy"
+        ],
+        "countryCode": null,
+        "city": "Villeneuve D'Ascq",
+        "zipcode": "59650"
+      },
+      "contact": {
+        "phone": "03 20 43 88 88"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - MONTIGNY",
+      "storeId": "naofloor_montigny_les_cormeilles_95370_leroy_merlin",
+      "location": {
+        "lat": 48.990842,
+        "lng": 2.202017
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "45 Boulevard Victor Bordier"
+        ],
+        "countryCode": null,
+        "city": "Montigny Les Cormeilles",
+        "zipcode": "95370"
+      },
+      "contact": {
+        "phone": "01 39 31 36 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - MONTPELLIER",
+      "storeId": "naofloor_st_jean_de_vedas_34433_leroy_merlin",
+      "location": {
+        "lat": 43.569965,
+        "lng": 3.845679
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "ZAC De la Condamine",
+          "Centre Commercial Carrefour"
+        ],
+        "countryCode": null,
+        "city": "St Jean De Vedas",
+        "zipcode": "34433"
+      },
+      "contact": {
+        "phone": "04 67 69 24 25"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - DIJON",
+      "storeId": "naofloor_quetigny_les_dijon_21800_leroy_merlin",
+      "location": {
+        "lat": 47.30856,
+        "lng": 5.100062
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "20 Boulevard du Grand Marché",
+          "ZAC Les Charrières"
+        ],
+        "countryCode": null,
+        "city": "Quetigny Les Dijon",
+        "zipcode": "21800"
+      },
+      "contact": {
+        "phone": "03 80 48 36 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - BONNEUIL",
+      "storeId": "naofloor_bonneuil_sur_marne_94380_leroy_merlin",
+      "location": {
+        "lat": 48.765642,
+        "lng": 2.488827
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "1 avenue du Bicentenaire"
+        ],
+        "countryCode": null,
+        "city": "Bonneuil-Sur-Marne",
+        "zipcode": "94380"
+      },
+      "contact": {
+        "phone": "01 49 56 23 23"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - STE GENEVIEVE DES BOIS",
+      "storeId": "naofloor_ste_genevieve_des_bois_91700_leroy_merlin",
+      "location": {
+        "lat": 48.621548,
+        "lng": 2.346536
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Avenue des Hurepoix",
+          "ZAC de la Croix Blanche"
+        ],
+        "countryCode": null,
+        "city": "Ste Genevieve Des Bois",
+        "zipcode": "91700"
+      },
+      "contact": {
+        "phone": "01 69 25 50 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - LE MANS",
+      "storeId": "naofloor_mulsanne_72230_leroy_merlin",
+      "location": {
+        "lat": 47.939344,
+        "lng": 0.227531
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Route de Tours",
+          "Zone d'activité du Cormier L'Arche"
+        ],
+        "countryCode": null,
+        "city": "Mulsanne",
+        "zipcode": "72230"
+      },
+      "contact": {
+        "phone": "02 43 50 18 50"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - BORDEAUX LE LAC",
+      "storeId": "naofloor_bordeaux_le_lac_33000_leroy_merlin",
+      "location": {
+        "lat": 44.829038,
+        "lng": -0.600106
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Avenue des 40 Journaux",
+          "Centre Commercial Le Lac"
+        ],
+        "countryCode": null,
+        "city": "Bordeaux Le Lac",
+        "zipcode": "33000"
+      },
+      "contact": {
+        "phone": "05 56 69 23 45"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - PAU",
+      "storeId": "naofloor_pau_64010_leroy_merlin",
+      "location": {
+        "lat": 43.307761,
+        "lng": -0.32711
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Boulevard de l'Aviation Bizanos"
+        ],
+        "countryCode": null,
+        "city": "Pau",
+        "zipcode": "64010"
+      },
+      "contact": {
+        "phone": "05 59 90 34 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - MASSY",
+      "storeId": "naofloor_massy_91300_leroy_merlin",
+      "location": {
+        "lat": 48.720177,
+        "lng": 2.280817
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "2 Rue Aulnaye Dracourt",
+          "ZI de la Bonde"
+        ],
+        "countryCode": null,
+        "city": "Massy",
+        "zipcode": "91300"
+      },
+      "contact": {
+        "phone": "01 69 53 59 59"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - ST BRIEUC",
+      "storeId": "naofloor_langueux_22360_leroy_merlin",
+      "location": {
+        "lat": 48.500129,
+        "lng": -2.729101
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Rue Freyssinet,Espace commercial",
+          "Z.A.C. du Douvenant"
+        ],
+        "countryCode": null,
+        "city": "Langueux",
+        "zipcode": "22360"
+      },
+      "contact": {
+        "phone": "02 96 52 42 10"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - MERIGNAC",
+      "storeId": "naofloor_merignac_33700_leroy_merlin",
+      "location": {
+        "lat": 44.832603,
+        "lng": -0.665707
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "90 Avenue Henri Vigneau",
+          "CS10022"
+        ],
+        "countryCode": null,
+        "city": "Merignac",
+        "zipcode": "33700"
+      },
+      "contact": {
+        "phone": "05 56 34 39 02"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - METZ",
+      "storeId": "naofloor_hauconcourt_57280_leroy_merlin",
+      "location": {
+        "lat": 49.209601,
+        "lng": 6.18768
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Zone Industrielle D'Hauconcourt"
+        ],
+        "countryCode": null,
+        "city": "Hauconcourt",
+        "zipcode": "57280"
+      },
+      "contact": {
+        "phone": "03 87 51 55 56"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - NANTES",
+      "storeId": "naofloor_reze_44406_leroy_merlin",
+      "location": {
+        "lat": 47.192951,
+        "lng": -1.577712
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "5 rue Ordronneau",
+          "CP 2512"
+        ],
+        "countryCode": null,
+        "city": "Reze",
+        "zipcode": "44406"
+      },
+      "contact": {
+        "phone": "02 51 70 77 77"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - BEAUBOURG",
+      "storeId": "naofloor_paris_75003_leroy_merlin",
+      "location": {
+        "lat": 48.861602,
+        "lng": 2.352202
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "52 rue Rambuteau"
+        ],
+        "countryCode": null,
+        "city": "Paris",
+        "zipcode": "75003"
+      },
+      "contact": {
+        "phone": "01 44 54 66 66"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - CAEN",
+      "storeId": "naofloor_mondeville_14420_leroy_merlin",
+      "location": {
+        "lat": 49.159068,
+        "lng": -0.293238
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "32 rue Henri Spriet"
+        ],
+        "countryCode": null,
+        "city": "Mondeville",
+        "zipcode": "14420"
+      },
+      "contact": {
+        "phone": "02 31 82 40 33"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - ROSNY SOUS BOIS",
+      "storeId": "naofloor_rosny_sous_bois_93110_leroy_merlin",
+      "location": {
+        "lat": 48.88046,
+        "lng": 2.473529
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "7 rue de Lisbonne",
+          "ZAC de Nanteuil"
+        ],
+        "countryCode": null,
+        "city": "Rosny Sous Bois",
+        "zipcode": "93110"
+      },
+      "contact": {
+        "phone": "01 48 94 76 76"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - ROUEN TOURVILLE",
+      "storeId": "naofloor_tourville_la_riviere_76410_leroy_merlin",
+      "location": {
+        "lat": 49.327363,
+        "lng": 1.10004
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Centre Commercial Carrefour",
+          "Le Clos aux Antes"
+        ],
+        "countryCode": null,
+        "city": "Tourville La Riviere",
+        "zipcode": "76410"
+      },
+      "contact": {
+        "phone": "02 35 77 56 56"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - CABRIES",
+      "storeId": "naofloor_cabries_13480_leroy_merlin",
+      "location": {
+        "lat": 43.418997,
+        "lng": 5.362977
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Rue Honoré Martin",
+          "Centre Commercial Plan De Campagne"
+        ],
+        "countryCode": null,
+        "city": "Cabries",
+        "zipcode": "13480"
+      },
+      "contact": {
+        "phone": "04 42 10 61 10"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - ISNEAUVILLE",
+      "storeId": "naofloor_isneauville_76230_leroy_merlin",
+      "location": {
+        "lat": 49.495344,
+        "lng": 1.144279
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "ZAC de la Ronce"
+        ],
+        "countryCode": null,
+        "city": "Isneauville",
+        "zipcode": "76230"
+      },
+      "contact": {
+        "phone": "02 35 59 66 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - BAYONNE",
+      "storeId": "naofloor_bayonne_64100_leroy_merlin",
+      "location": {
+        "lat": 43.463003,
+        "lng": -1.491279
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "95 Avenue du 8 mai 1945"
+        ],
+        "countryCode": null,
+        "city": "Bayonne",
+        "zipcode": "64100"
+      },
+      "contact": {
+        "phone": "05 59 31 47 60"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - GENNEVILLIERS",
+      "storeId": "naofloor_gennevilliers_92230_leroy_merlin",
+      "location": {
+        "lat": 48.932124,
+        "lng": 2.319308
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "121 Avenue du Vieux Chemin de St Denis"
+        ],
+        "countryCode": null,
+        "city": "Gennevilliers",
+        "zipcode": "92230"
+      },
+      "contact": {
+        "phone": "01 41 47 71 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - BRIE COMTE ROBERT",
+      "storeId": "naofloor_brie_comte_robert_77170_leroy_merlin",
+      "location": {
+        "lat": 48.704173,
+        "lng": 2.605122
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Rue de la Butte aux Bergers",
+          "ZAC duTuboeuf"
+        ],
+        "countryCode": null,
+        "city": "Brie Comte Robert",
+        "zipcode": "77170"
+      },
+      "contact": {
+        "phone": "01 60 62 63 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - HAGUENEAU 2",
+      "storeId": "naofloor_haguenau_67500_leroy_merlin",
+      "location": {
+        "lat": 48.806726,
+        "lng": 7.832147
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "1 rue du Kestlerhof"
+        ],
+        "countryCode": null,
+        "city": "Haguenau",
+        "zipcode": "67500"
+      },
+      "contact": {
+        "phone": "03 88 73 54 54"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - ST ETIENNE STEEL",
+      "storeId": "naofloor_saint_etienne_42000_leroy_merlin",
+      "location": {
+        "lat": 45.463519,
+        "lng": 4.372836
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "rue Ferrer",
+          "Centre commercial Steel"
+        ],
+        "countryCode": null,
+        "city": "Saint Etienne",
+        "zipcode": "42000"
+      },
+      "contact": {
+        "phone": "04 77 29 39 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - COLLEGIEN",
+      "storeId": "naofloor_collegien_77090_leroy_merlin",
+      "location": {
+        "lat": 48.833702,
+        "lng": 2.66467
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Rue du Général de Gaulle",
+          "Centre Commercial Régional BAY 2"
+        ],
+        "countryCode": null,
+        "city": "Collegien",
+        "zipcode": "77090"
+      },
+      "contact": {
+        "phone": "01 60 33 30 30"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - LYON TASSIN",
+      "storeId": "naofloor_tassin_la_demi_lune_69160_leroy_merlin",
+      "location": {
+        "lat": 45.769565,
+        "lng": 4.78775
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "12, avenue Victor Hugo"
+        ],
+        "countryCode": null,
+        "city": "Tassin La Demi Lune",
+        "zipcode": "69160"
+      },
+      "contact": {
+        "phone": "04 72 32 58 58"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - LA VALENTINE",
+      "storeId": "naofloor_marseille_13396_leroy_merlin",
+      "location": {
+        "lat": 43.293658,
+        "lng": 5.483371
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Avenue François Chardigny"
+        ],
+        "countryCode": null,
+        "city": "Marseille",
+        "zipcode": "13396"
+      },
+      "contact": {
+        "phone": "04 91 19 56 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - CLERMONT FERRAND",
+      "storeId": "naofloor_clermont_ferrand_63100_leroy_merlin",
+      "location": {
+        "lat": 45.79455,
+        "lng": 3.084197
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Boulevard St Jean",
+          "Angle rue Chappe"
+        ],
+        "countryCode": null,
+        "city": "Clermont Ferrand",
+        "zipcode": "63100"
+      },
+      "contact": {
+        "phone": "04 73 91 28 26"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - LA ROCHELLE",
+      "storeId": "naofloor_puilboreau_17138_leroy_merlin",
+      "location": {
+        "lat": 46.177061,
+        "lng": -1.123118
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "1 rue de Belgique",
+          "ZI de Beaulieu"
+        ],
+        "countryCode": null,
+        "city": "Puilboreau",
+        "zipcode": "17138"
+      },
+      "contact": {
+        "phone": "05 46 68 32 32"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - REIMS NORD",
+      "storeId": "naofloor_reims_cedex_51060_leroy_merlin",
+      "location": {
+        "lat": 49.26905,
+        "lng": 4.02427
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Rue du Docteur Creusat",
+          "Actipôle la Neuvillette"
+        ],
+        "countryCode": null,
+        "city": "Reims Cedex",
+        "zipcode": "51060"
+      },
+      "contact": {
+        "phone": "03 26 77 82 82"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - RUEIL MALMAISON",
+      "storeId": "naofloor_rueil_malmaison_92500_leroy_merlin",
+      "location": {
+        "lat": 48.862248,
+        "lng": 2.195072
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "58 avenue de Fouilleuse",
+          "Centre commercial Les Hauts de Rueil"
+        ],
+        "countryCode": null,
+        "city": "Rueil Malmaison",
+        "zipcode": "92500"
+      },
+      "contact": {
+        "phone": "01 41 29 35 35"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - NANTERRE",
+      "storeId": "naofloor_nanterre_92000_leroy_merlin",
+      "location": {
+        "lat": 48.910446,
+        "lng": 2.216453
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "140 rue de Sartrouville"
+        ],
+        "countryCode": null,
+        "city": "Nanterre",
+        "zipcode": "92000"
+      },
+      "contact": {
+        "phone": "01 41 32 42 42"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - BASTIA",
+      "storeId": "naofloor_furiani_20600_leroy_merlin",
+      "location": {
+        "lat": 42.656514,
+        "lng": 9.437003
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Centre commercial la Rocade",
+          "RN 193"
+        ],
+        "countryCode": null,
+        "city": "Furiani",
+        "zipcode": "20600"
+      },
+      "contact": {
+        "phone": "04 95 30 90 70"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "DESCHAUMES - PARIS 11",
+      "storeId": "naofloor_paris_75011_deschaumes",
+      "location": {
+        "lat": 48.861836,
+        "lng": 2.373671
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "61 boulevard Voltaire"
+        ],
+        "countryCode": null,
+        "city": "Paris",
+        "zipcode": "75011"
+      },
+      "contact": {
+        "phone": "01 43 57 67 62"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "DESCHAUMES - PARIS 15",
+      "storeId": "naofloor_paris_75015_deschaumes",
+      "location": {
+        "lat": 48.846065,
+        "lng": 2.302034
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "23 rue Cambronne"
+        ],
+        "countryCode": null,
+        "city": "Paris",
+        "zipcode": "75015"
+      },
+      "contact": {
+        "phone": "01 40 33 28 81"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "DESCHAUMES - PARIS 17",
+      "storeId": "naofloor_paris_75017_deschaumes",
+      "location": {
+        "lat": 48.879752,
+        "lng": 2.288077
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "227 boulevard Pereire"
+        ],
+        "countryCode": null,
+        "city": "Paris",
+        "zipcode": "75017"
+      },
+      "contact": {
+        "phone": "01 84 74 86 50"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "DESCHAUMES - AIX EN PROVENCE",
+      "storeId": "naofloor_aix_en_provence_13290_deschaumes",
+      "location": {
+        "lat": 43.481661,
+        "lng": 5.385388
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "25 rue Famille Laurens"
+        ],
+        "countryCode": null,
+        "city": "Aix En Provence",
+        "zipcode": "13290"
+      },
+      "contact": {
+        "phone": "04 65 26 07 40"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "DESCHAUMES - LYON 2",
+      "storeId": "naofloor_lyon_69002_deschaumes",
+      "location": {
+        "lat": 45.764784,
+        "lng": 4.83798
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "15 quai Jean Moulin"
+        ],
+        "countryCode": null,
+        "city": "Lyon",
+        "zipcode": "69002"
+      },
+      "contact": {
+        "phone": "04 81 13 34 20"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "DESCHAUMES - BORDEAUX",
+      "storeId": "naofloor_merignac_33700_deschaumes",
+      "location": {
+        "lat": 44.833103,
+        "lng": -0.650072
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "16 avenue de la Somme"
+        ],
+        "countryCode": null,
+        "city": "Merignac",
+        "zipcode": "33700"
+      },
+      "contact": {
+        "phone": "05 64 31 22 10"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "DESCHAUMES - ST-PIERRE-LES-ETIEUX",
+      "storeId": "naofloor_saint_pierre_les_etieux_18210_deschaumes",
+      "location": {
+        "lat": 46.731374,
+        "lng": 2.62938
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "330 route de St Amand"
+        ],
+        "countryCode": null,
+        "city": "Saint -Pierre-Les-Etieux",
+        "zipcode": "18210"
+      },
+      "contact": {
+        "phone": "02 48 60 66 07"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "DESCHAUMES - ST-PIERRE-DES-CORPS",
+      "storeId": "naofloor_saint_pierre_des_corps_37700_deschaumes",
+      "location": {
+        "lat": 47.393652,
+        "lng": 0.746421
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "27 rue de la Morinerie"
+        ],
+        "countryCode": null,
+        "city": "Saint-Pierre-Des-Corps",
+        "zipcode": "37700"
+      },
+      "contact": {
+        "phone": "02 47 46 07 07"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "TRÄD WOOD - Cagnes sur Mer",
+      "storeId": "naofloor_cagnes_sur_mer_06800_trad_wood",
+      "location": {
+        "lat": 43.657328,
+        "lng": 7.144988
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "14 avenue de Grasse"
+        ],
+        "countryCode": null,
+        "city": "Cagnes Sur Mer",
+        "zipcode": "06800"
+      },
+      "contact": {
+        "phone": "09 77 56 94 46"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "STORES RIDEAUX VOILAGES - Bourges",
+      "storeId": "naofloor_bourges_18000_stores_rideaux_voilages",
+      "location": {
+        "lat": 47.077057,
+        "lng": 2.389915
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "42 rue Barbès"
+        ],
+        "countryCode": null,
+        "city": "Bourges",
+        "zipcode": "18000"
+      },
+      "contact": {
+        "phone": "07 53 94 64 03"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "ATOUT PARQUETS - Gap",
+      "storeId": "naofloor_gap_05000_atout_parquets",
+      "location": {
+        "lat": 44.555196,
+        "lng": 6.074801
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "12/14 avenue Jean Jaurès"
+        ],
+        "countryCode": null,
+        "city": "Gap",
+        "zipcode": "05000"
+      },
+      "contact": {
+        "phone": "04 92 52 46 60"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "PEINTURES VALBERT - LYON",
+      "storeId": "naofloor_lyon_69009_peintures_valbert",
+      "location": {
+        "lat": 45.767832,
+        "lng": 4.797797
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "99 Avenue de Sidoine Apollinaire"
+        ],
+        "countryCode": null,
+        "city": "Lyon",
+        "zipcode": "69009"
+      },
+      "contact": {
+        "phone": "04 78 36 68 25"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "PEINTURES VALBERT - DECINES CHARPIEU",
+      "storeId": "naofloor_decines_69150_peintures_valbert",
+      "location": {
+        "lat": 45.758527,
+        "lng": 4.939712
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "8 rue Paul et Marc Barbezat"
+        ],
+        "countryCode": null,
+        "city": "Décines",
+        "zipcode": "69150"
+      },
+      "contact": {
+        "phone": "04 81 09 70 97"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "PEINTURES VALBERT - VILLEFRANCHE SUR SAONE",
+      "storeId": "naofloor_villefranche_69400_peintures_valbert",
+      "location": {
+        "lat": 45.997642,
+        "lng": 4.737462
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "369 rue Benoît Mulsant"
+        ],
+        "countryCode": null,
+        "city": "Villefranche",
+        "zipcode": "69400"
+      },
+      "contact": {
+        "phone": "04 74 77 30 80"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - ANNECY",
+      "storeId": "naofloor_epagny_74330_leroy_merlin",
+      "location": {
+        "lat": 45.926609,
+        "lng": 6.083068
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "358 route de Closon",
+          "Accès route de Rumilly, Poisy"
+        ],
+        "countryCode": null,
+        "city": "Epagny",
+        "zipcode": "74330"
+      },
+      "contact": {
+        "phone": "04 50 24 67 67"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - VOURLES",
+      "storeId": "naofloor_vourles_69390_leroy_merlin",
+      "location": {
+        "lat": 45.655582,
+        "lng": 4.751055
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "13 avenue du Général Brosset",
+          "Les 7 chemins"
+        ],
+        "countryCode": null,
+        "city": "Vourles",
+        "zipcode": "69390"
+      },
+      "contact": {
+        "phone": "04 72 15 55 55"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - NICE",
+      "storeId": "naofloor_nice_06200_leroy_merlin",
+      "location": {
+        "lat": 43.731,
+        "lng": 7.185309
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "642 Bd du Mercantour"
+        ],
+        "countryCode": null,
+        "city": "Nice",
+        "zipcode": "06200"
+      },
+      "contact": {
+        "phone": "06 44 60 83 83"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - MONTAUBAN",
+      "storeId": "naofloor_montauban_82000_leroy_merlin",
+      "location": {
+        "lat": 44.053178,
+        "lng": 1.3439
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "400 Boulevard d'Occitanie",
+          "Boulevard Urbain Ouest"
+        ],
+        "countryCode": null,
+        "city": "Montauban",
+        "zipcode": "82000"
+      },
+      "contact": {
+        "phone": "05 63 03 95 50"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - THEIX VANNES",
+      "storeId": "naofloor_theix_noyalo_56450_leroy_merlin",
+      "location": {
+        "lat": 47.644879,
+        "lng": -2.701289
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "rue De La Bourdonnais",
+          "Z.A. Atlantheix"
+        ],
+        "countryCode": null,
+        "city": "Theix Noyalo",
+        "zipcode": "56450"
+      },
+      "contact": {
+        "phone": "02 97 54 55 55"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - ST EGREVE",
+      "storeId": "naofloor_st_egreve_38120_leroy_merlin",
+      "location": {
+        "lat": 45.242019,
+        "lng": 5.665475
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "14 rue Louis Besançon"
+        ],
+        "countryCode": null,
+        "city": "St Egreve",
+        "zipcode": "38120"
+      },
+      "contact": {
+        "phone": "04 57 93 93 38"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - TOURS NORD",
+      "storeId": "naofloor_tours_37100_leroy_merlin",
+      "location": {
+        "lat": 47.423729,
+        "lng": 0.700862
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "rue Louis Blériot",
+          "Espace commercial la Petite Arche"
+        ],
+        "countryCode": null,
+        "city": "Tours",
+        "zipcode": "37100"
+      },
+      "contact": {
+        "phone": "02 47 49 10 10"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - QUEVEN",
+      "storeId": "naofloor_queven_56530_leroy_merlin",
+      "location": {
+        "lat": 47.7757,
+        "lng": -3.417473
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Zone d'Activité Le Mourillon"
+        ],
+        "countryCode": null,
+        "city": "Queven",
+        "zipcode": "56530"
+      },
+      "contact": {
+        "phone": "02 97 80 10 50"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - PLEURTUIT - DINARD",
+      "storeId": "naofloor_pleurtuit_35730_leroy_merlin",
+      "location": {
+        "lat": 48.57923,
+        "lng": -2.064694
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "5 rue Cap Horn",
+          "Centre Commercial Cap Emeraude"
+        ],
+        "countryCode": null,
+        "city": "Pleurtuit",
+        "zipcode": "35730"
+      },
+      "contact": {
+        "phone": "02 23 15 01 30"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - MONTPELLIER - SAINT AUNES",
+      "storeId": "naofloor_saint_aunes_34130_leroy_merlin",
+      "location": {
+        "lat": 43.651073,
+        "lng": 3.982161
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Avenue de la Saladelle",
+          "ECOPARC Départemental St Aunès"
+        ],
+        "countryCode": null,
+        "city": "Saint Aunes",
+        "zipcode": "34130"
+      },
+      "contact": {
+        "phone": "04 67 40 95 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - BIGANOS",
+      "storeId": "naofloor_biganos_33380_leroy_merlin",
+      "location": {
+        "lat": 44.641007,
+        "lng": -0.950306
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Lieu-dit \"Le, Moulin de la Cassadote"
+        ],
+        "countryCode": null,
+        "city": "Biganos",
+        "zipcode": "33380"
+      },
+      "contact": {
+        "phone": "05 57 17 08 80"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - PERPIGNAN",
+      "storeId": "naofloor_perpignan_66000_leroy_merlin",
+      "location": {
+        "lat": 50.0619,
+        "lng": 1.40874
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Route d'Espagne",
+          "Le Mas Galté Centre Commercial Auchan"
+        ],
+        "countryCode": null,
+        "city": "Perpignan",
+        "zipcode": "66000"
+      },
+      "contact": {
+        "phone": "04 68 98 47 47"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - AVIGNON LE PONTET",
+      "storeId": "naofloor_le_pontet_84130_leroy_merlin",
+      "location": {
+        "lat": 43.98097,
+        "lng": 4.877976
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "193 Avenue Isaac Newton",
+          "Centre Commercial Avignon Nord"
+        ],
+        "countryCode": null,
+        "city": "Le Pontet",
+        "zipcode": "84130"
+      },
+      "contact": {
+        "phone": "04 32 73 02 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - RENNES NORD - BETTON",
+      "storeId": "naofloor_betton_35830_leroy_merlin",
+      "location": {
+        "lat": 45.662595,
+        "lng": -1.012317
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "Zone d'activité économique Du Pluvignon",
+          "Rocade Nord - Village De La Forme"
+        ],
+        "countryCode": null,
+        "city": "Betton",
+        "zipcode": "35830"
+      },
+      "contact": {
+        "phone": "02 23 27 40 40"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - MAÇON",
+      "storeId": "naofloor_macon_71000_leroy_merlin",
+      "location": {
+        "lat": 46.281743,
+        "lng": 4.806357
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "448 rue Jacquard RN 6"
+        ],
+        "countryCode": null,
+        "city": "Macon",
+        "zipcode": "71000"
+      },
+      "contact": {
+        "phone": "03 85 29 23 76"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "INFINESSANCE DECO - GRENOBLE",
+      "storeId": "naofloor_grenoble_38000_infinessance_deco",
+      "location": {
+        "lat": 45.186735,
+        "lng": 5.73153
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "11 Rue de Strasbourg"
+        ],
+        "countryCode": null,
+        "city": "Grenoble",
+        "zipcode": "38000"
+      },
+      "contact": {
+        "phone": "06 74 44 43 61"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "PARQUET & MATIÈRES CRÉATION - QUIMPER",
+      "storeId": "naofloor_quimper_29000_parquet_matieres_creatio",
+      "location": {
+        "lat": 47.995951,
+        "lng": -4.078795
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "24 Av. Saint Denis"
+        ],
+        "countryCode": null,
+        "city": "Quimper",
+        "zipcode": "29000"
+      },
+      "contact": {
+        "phone": "06 62 66 83 27"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "ESPACE REVÊTEMENTS BATISTOCK - PASSY",
+      "storeId": "naofloor_passy_74190_espace_revetements_batis",
+      "location": {
+        "lat": 45.913819,
+        "lng": 6.706653
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "40 Avenue Joseph Thoret"
+        ],
+        "countryCode": null,
+        "city": "Passy",
+        "zipcode": "74190"
+      },
+      "contact": {
+        "phone": "04 50 78 34 69"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "SOLMUR - VILLEURBANNE",
+      "storeId": "naofloor_villeurbanne_69100_solmur",
+      "location": {
+        "lat": 45.754626,
+        "lng": 4.896596
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "6 Rue Christian de Wett"
+        ],
+        "countryCode": null,
+        "city": "Villeurbanne",
+        "zipcode": "69100"
+      },
+      "contact": {
+        "phone": "04 72 14 11 51"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "LA PARQUETERIE DU LAC - MÉRIGNAC",
+      "storeId": "naofloor_merignac_33700_la_parqueterie_du_lac",
+      "location": {
+        "lat": 44.84816,
+        "lng": -0.6824
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "2 rue Falcon"
+        ],
+        "countryCode": null,
+        "city": "Mérignac",
+        "zipcode": "33700"
+      },
+      "contact": {
+        "phone": "05 56 36 39 39"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "PERIGORD BOIS - CHAMPCEVINEL",
+      "storeId": "naofloor_champcevinel_24750_perigord_bois",
+      "location": {
+        "lat": 45.229535,
+        "lng": 0.721673
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "60 rue de la Paix"
+        ],
+        "countryCode": null,
+        "city": "Champcevinel",
+        "zipcode": "24750"
+      },
+      "contact": {
+        "phone": "05 53 04 68 22"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - BALMA",
+      "storeId": "naofloor_balma_31130_leroy_merlin",
+      "location": {
+        "lat": 43.59269,
+        "lng": 1.49936
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "1 Avenue Jean Lagasse"
+        ],
+        "countryCode": null,
+        "city": "Balma",
+        "zipcode": "31130"
+      },
+      "contact": {
+        "phone": "05 62 16 47 47"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - BEZIERS",
+      "storeId": "naofloor_villeneuveles_beziers_34420_leroy_merlin",
+      "location": {
+        "lat": 43.337343,
+        "lng": 3.285105
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "AVENUE JEAN MONNET"
+        ],
+        "countryCode": null,
+        "city": "Villeneuveles Beziers",
+        "zipcode": "34420"
+      },
+      "contact": {
+        "phone": "04 30 41 04 40"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN - BOULIAC",
+      "storeId": "naofloor_bouliac_33270_leroy_merlin",
+      "location": {
+        "lat": 44.81841,
+        "lng": -0.523737
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "18 RUE DE LA GABARRE"
+        ],
+        "countryCode": null,
+        "city": "Bouliac",
+        "zipcode": "33270"
+      },
+      "contact": {
+        "phone": "05 56 21 84 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "LEROY MERLIN ALBI - ALBI",
+      "storeId": "naofloor_albi_81000_leroy_merlin_albi",
+      "location": {
+        "lat": 43.925597,
+        "lng": 2.125528
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "AVENUE DE SAINT EXUPERY"
+        ],
+        "countryCode": null,
+        "city": "Albi",
+        "zipcode": "81000"
+      },
+      "contact": {
+        "phone": "05 81 40 22 00"
+      },
+      "userProperties": {
+        "category": "selection"
+      }
+    },
+    {
+      "name": "ARBAO MERIGNAC - MERIGNAC",
+      "storeId": "naofloor_merignac_33700_arbao_merignac",
+      "location": {
+        "lat": 44.83248,
+        "lng": -0.671987
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "9 rue Euler"
+        ],
+        "countryCode": null,
+        "city": "Merignac",
+        "zipcode": "33700"
+      },
+      "contact": {
+        "phone": "05 56 34 88 79"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "SN La Parqueterie - NIMES",
+      "storeId": "naofloor_nimes_30000_sn_la_parqueterie",
+      "location": {
+        "lat": 43.844073,
+        "lng": 4.409051
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "1071 r Max Chabaud"
+        ],
+        "countryCode": null,
+        "city": "Nimes",
+        "zipcode": "30000"
+      },
+      "contact": {},
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "TAMARGO PARQUETS - PORTET SUR GARONNE",
+      "storeId": "naofloor_portet_sur_garonne_31120_tamargo_parquets",
+      "location": {
+        "lat": 43.531661,
+        "lng": 1.389499
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "2 IMPASSE DE FRANCAZAL"
+        ],
+        "countryCode": null,
+        "city": "Portet Sur Garonne",
+        "zipcode": "31120"
+      },
+      "contact": {
+        "phone": "05 61 07 59 00"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "NATURE ET DEVELOPPEMENT PERPIGNAN - PERPIGNAN",
+      "storeId": "naofloor_perpignan_66000_nature_et_developpement_",
+      "location": {
+        "lat": 42.682383,
+        "lng": 2.873122
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "4 RUE JOSEPH CUGNOT"
+        ],
+        "countryCode": null,
+        "city": "Perpignan",
+        "zipcode": "66000"
+      },
+      "contact": {},
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "LE PLANCHER DES VACHES - BORDEAUX",
+      "storeId": "naofloor_bordeaux_33000_le_plancher_des_vaches",
+      "location": {
+        "lat": 44.87871,
+        "lng": -0.550976
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "23 rue Anne Franck"
+        ],
+        "countryCode": null,
+        "city": "Bordeaux",
+        "zipcode": "33000"
+      },
+      "contact": {
+        "phone": "04 50 60 71 21"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "CIFFREO BONA - HOME STORE",
+      "storeId": "naofloor_cannes_06150_ciffreo_bona",
+      "location": {
+        "lat": 43.54379,
+        "lng": 6.961518
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "183 avenue de la Roubine"
+        ],
+        "countryCode": null,
+        "city": "Cannes",
+        "zipcode": "06150"
+      },
+      "contact": {
+        "phone": "04 93 90 58 01"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "GABRIEL - GABRIEL EXPO",
+      "storeId": "naofloor_clermont_ferrand_63100_gabriel",
+      "location": {
+        "lat": 45.785807,
+        "lng": 3.135956
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "40 rue Jules Verne"
+        ],
+        "countryCode": null,
+        "city": "Clermont Ferrand",
+        "zipcode": "63100"
+      },
+      "contact": {
+        "phone": "04 73 42 18 38"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "GBMC - SHOW ROOM",
+      "storeId": "naofloor_franois_25770_gbmc",
+      "location": {
+        "lat": 47.219086,
+        "lng": 5.942267
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "ZAC de Châteaufarine 128 chemin de la Dinde"
+        ],
+        "countryCode": null,
+        "city": "Franois",
+        "zipcode": "25770"
+      },
+      "contact": {
+        "phone": "03 81 51 95 84"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "NATURAL PARQUET - ANNECY",
+      "storeId": "naofloor_annecy_74960_natural_parquet",
+      "location": {
+        "lat": 45.922355,
+        "lng": 6.090176
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "22 rue de l'Euro"
+        ],
+        "countryCode": null,
+        "city": "Annecy",
+        "zipcode": "74960"
+      },
+      "contact": {
+        "phone": "04 50 24 32 60"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "IN WOOD - SALLANCHES",
+      "storeId": "naofloor_sallanches_74700_in_wood",
+      "location": {
+        "lat": 45.9326,
+        "lng": 6.637981
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "42 rue Léon Cural"
+        ],
+        "countryCode": null,
+        "city": "Sallanches",
+        "zipcode": "74700"
+      },
+      "contact": {
+        "phone": "04 50 54 10 50"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "RESTART - LE SHOWROOM",
+      "storeId": "naofloor_nice_06000_restart",
+      "location": {
+        "lat": 43.704656,
+        "lng": 7.269014
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "2 rue Niepce"
+        ],
+        "countryCode": null,
+        "city": "Nice",
+        "zipcode": "06000"
+      },
+      "contact": {
+        "phone": "04 93 55 95 01"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    },
+    {
+      "name": "MARTIN SOLS SHOWROOM - PESSAC",
+      "storeId": "naofloor_pessac_33600_martin_sols_showroom",
+      "location": {
+        "lat": 44.78042,
+        "lng": -0.648105
+      },
+      "types": [
+        "naofloor_retailer"
+      ],
+      "tags": [
+        "naofloor",
+        "parquet"
+      ],
+      "address": {
+        "lines": [
+          "212 AVENUE DU HAUT LEVEQUE"
+        ],
+        "countryCode": null,
+        "city": "Pessac",
+        "zipcode": "33600"
+      },
+      "contact": {
+        "phone": "05 33 09 07 20"
+      },
+      "userProperties": {
+        "category": "referent"
+      }
+    }
+  ]
+}
